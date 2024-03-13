@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  counter-reset: section;
+}
+
+h2::before {
+  counter-increment: section;
+  content: "Section " counter(section) ": ";
+}
+</style>
+</head>
+<body>
+
+<h1>Cao Ngọc Minh - 2021050442</h1>
+
+<h2>Cao Ngọc Minh - 2021050442</h2>
+<h2>Cao Ngọc Minh - 2021050442</h2>
+<h2>Cao Ngọc Minh - 2021050442</h2>
+<h2>Cao Ngọc Minh - 2021050442</h2>
+<h2>Cao Ngọc Minh - 2021050442</h2>
+
+</body>
+</html>
+
+

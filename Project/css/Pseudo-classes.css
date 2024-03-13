@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+</style>
+</head>
+<body>
+
+<h2>Cao Ngọc Minh - 2021050442</h2>
+
+<p><b><a href="default.asp" target="_blank">Cao Ngọc Minh - 2021050442</a></b></p>
+<p><b>Note:</b> Cao Ngọc Minh - 2021050442</p>
+<p><b>Note:</b> Cao Ngọc Minh - 2021050442</p>
+
+</body>
+</html>
+
+

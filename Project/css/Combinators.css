@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div p {
+  background-color: yellow;
+}
+</style>
+</head>
+<body>
+
+<h2>Cao Ngọc Minh - 2021050442</h2>
+
+<p>The descendant selector matches all elements that are descendants of a specified element.</p>
+
+<div>
+  <p>Cao Ngọc Minh - 2021050442</p>
+  <p>Cao Ngọc Minh - 2021050442</p>
+  <section><p>Cao Ngọc Minh - 2021050442</p></section>
+</div>
+
+<p>Cao Ngọc Minh - 2021050442</p>
+<p>Cao Ngọc Minh - 2021050442</p>
+
+</body>
+</html>
+
+
